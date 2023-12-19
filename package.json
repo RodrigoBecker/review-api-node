@@ -1,0 +1,13 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "rocketseat",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/serve.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
